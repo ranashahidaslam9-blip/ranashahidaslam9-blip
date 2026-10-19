@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Founder at Saas Maga News 👋
 
-<!--
-**ranashahidaslam9-blip/ranashahidaslam9-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+Founder at **Saas Maga News** - Covering SaaS, AI Tools & Free SEO Tools. Helping founders and bloggers grow online with actionable guides and tools.
 
-Here are some ideas to get you started:
+### 🌐 My Website
+**Check out my work here: [https://saasmaganews.com](https://saasmaganews.com)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+We cover:
+- Best SaaS Tools & Deals
+- AI Tools Reviews
+- Free SEO Tools
+- Blogging Guides
+
+### 📫 Connect with me
+- Website: https://saasmaganews.com
+- Location: Pakistan
